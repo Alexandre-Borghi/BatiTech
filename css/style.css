@@ -98,11 +98,11 @@ nav {
 }
 
 p {
-	margin: 10px 10px 10px 20px;
+	padding: 20px 10px 0px 20px;
 	
 	color: black;
 	
-	text-align: center;
+	text-align: justify;
 
 	font-size: 20px;
 	font-family: "Open Sans";
@@ -111,4 +111,14 @@ p {
 strong {
 	font-weight: bold;
 	color: #ef9a38;
+}
+
+ul {
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+	background-color: #ef9a38;
+
+	font-family: "Open Sans";
+	font-size: 20px;
 }
